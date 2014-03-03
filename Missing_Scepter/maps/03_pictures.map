@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Ur          , Xos         , Xos         , Xos         , Xos         , Ur          , Ur          , Ur          
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Ur          , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Ur          
+Xos         , Xos         , Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , Ai          , Xos         , Xos         , Xos         , Xos         , Xos         
+Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Xos         , Xos         , Xos         
+Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Xos         , Xos         , Xos         
+Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Xos         , Xos         
+Xos         , Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Xos         
+Gg          , Xos         , Xos         , Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , 1 Ai        , Ai          , Ai          , Ql          , Xos         
+Gg          , Gg          , Gg          , Xos         , Xos         , Xos         , Ai          , Ai          , Ai          , Ai          , 2 Ai        , Ai          , Ai          , Xos         
+Gg          , Gg          , Xos         , Gg          , Xos         , Xos         , Rp          , Ai          , Xos         , Ai          , Ai          , Ai          , Xos         , Xos         
+Xos         , Xos         , Xos         , Gg          , Xos         , Xos         , Rp          , Xos         , Xos         , Xos         , Xos         , Xos         , Gg          , Gg          
+Xos         , Xos         , Xos         , Gg          , Xos         , Xos         , Gg          , Xos         , Xos         , Xos         , Gg          , Gg          , Gg          , Gg          
