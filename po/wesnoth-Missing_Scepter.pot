@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Missing_Scepter-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-03 21:36+0100\n"
+"POT-Creation-Date: 2014-03-24 03:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,7 +88,7 @@ msgstr ""
 #. [side]: type=Flotsom White, id=Flotsom
 #. [side]: type=Flotsom White, id=Flotsom, id=Flotsom
 #. [side]: type=Master at Arms, id=Fiddleton
-#: ./Missing_Scepter/scenarios/01_Retreat.cfg:44 ./Missing_Scepter/scenarios/02_Vacation.cfg:35 ./Missing_Scepter/scenarios/04a_Hiring.cfg:22 ./Missing_Scepter/scenarios/04b_Training.cfg:22 ./Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:22 ./Missing_Scepter/scenarios/07_Elensefar.cfg:21 ./Missing_Scepter/scenarios/08_Save_the_Farm.cfg:22 ./Missing_Scepter/scenarios/09_Carcyn.cfg:22 ./Missing_Scepter/scenarios/10a_River_Listra.cfg:40 ./Missing_Scepter/scenarios/10b_River_Listra.cfg:39 ./Missing_Scepter/scenarios/10c_River_Listra.cfg:39 ./Missing_Scepter/scenarios/10d_River_Listra.cfg:41 ./Missing_Scepter/scenarios/10e_River_Listra.cfg:20 ./Missing_Scepter/scenarios/11a_Straight_Passage.cfg:38 ./Missing_Scepter/scenarios/11b_Frozen.cfg:40 ./Missing_Scepter/scenarios/11c_Pyramid.cfg:21 ./Missing_Scepter/scenarios/12_Rest_Stop.cfg:22 ./Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:109 ./Missing_Scepter/scenarios/14_Red_Crystal.cfg:31 ./Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:31 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:34 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:88 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:104 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:22 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:91 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:118 ./Missing_Scepter/scenarios/17_Meet_Up.cfg:22 ./Missing_Scepter/scenarios/18_Troll_Road.cfg:17 ./Missing_Scepter/scenarios/18a_Ice.cfg:22 ./Missing_Scepter/scenarios/18b_Fire.cfg:16 ./Missing_Scepter/scenarios/18c_Water.cfg:17 ./Missing_Scepter/scenarios/18d_Exit.cfg:15 ./Missing_Scepter/scenarios/19_Rescue.cfg:16 ./Missing_Scepter/scenarios/19_Rescue.cfg:36 ./Missing_Scepter/scenarios/20_Orcs.cfg:44 ./Missing_Scepter/scenarios/21bb_End.cfg:84 ./Missing_Scepter/scenarios/21bg_End.cfg:87 ./Missing_Scepter/scenarios/21gb_End.cfg:83 ./Missing_Scepter/scenarios/21gg_End.cfg:83
+#: ./Missing_Scepter/scenarios/01_Retreat.cfg:44 ./Missing_Scepter/scenarios/02_Vacation.cfg:35 ./Missing_Scepter/scenarios/04a_Hiring.cfg:22 ./Missing_Scepter/scenarios/04b_Training.cfg:22 ./Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:22 ./Missing_Scepter/scenarios/07_Elensefar.cfg:21 ./Missing_Scepter/scenarios/08_Save_the_Farm.cfg:22 ./Missing_Scepter/scenarios/09_Carcyn.cfg:22 ./Missing_Scepter/scenarios/10a_River_Listra.cfg:40 ./Missing_Scepter/scenarios/10b_River_Listra.cfg:39 ./Missing_Scepter/scenarios/10c_River_Listra.cfg:39 ./Missing_Scepter/scenarios/10d_River_Listra.cfg:41 ./Missing_Scepter/scenarios/10e_River_Listra.cfg:20 ./Missing_Scepter/scenarios/11a_Straight_Passage.cfg:38 ./Missing_Scepter/scenarios/11b_Frozen.cfg:40 ./Missing_Scepter/scenarios/11c_Pyramid.cfg:21 ./Missing_Scepter/scenarios/12_Rest_Stop.cfg:22 ./Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:109 ./Missing_Scepter/scenarios/14_Red_Crystal.cfg:31 ./Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:31 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:34 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:88 ./Missing_Scepter/scenarios/16_Black_Crystal.cfg:104 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:22 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:91 ./Missing_Scepter/scenarios/16a_Black_Crystal.cfg:118 ./Missing_Scepter/scenarios/17_Meet_Up.cfg:22 ./Missing_Scepter/scenarios/18_Troll_Road.cfg:17 ./Missing_Scepter/scenarios/18a_Ice.cfg:22 ./Missing_Scepter/scenarios/18b_Fire.cfg:16 ./Missing_Scepter/scenarios/18c_Water.cfg:17 ./Missing_Scepter/scenarios/18d_Exit.cfg:15 ./Missing_Scepter/scenarios/19_Rescue.cfg:16 ./Missing_Scepter/scenarios/19_Rescue.cfg:36 ./Missing_Scepter/scenarios/20_Orcs.cfg:44 ./Missing_Scepter/scenarios/21bb_End.cfg:84 ./Missing_Scepter/scenarios/21bg_End.cfg:85 ./Missing_Scepter/scenarios/21gb_End.cfg:83 ./Missing_Scepter/scenarios/21gg_End.cfg:83
 msgid "Civilians"
 msgstr ""
 
@@ -3511,27 +3511,27 @@ msgid "And so Homz was able to break the Green Crystal into pieces and return to
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:7 ./Missing_Scepter/scenarios/21gb_End.cfg:6 ./Missing_Scepter/scenarios/21gg_End.cfg:6
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:7 ./Missing_Scepter/scenarios/21bg_End.cfg:6 ./Missing_Scepter/scenarios/21gb_End.cfg:6 ./Missing_Scepter/scenarios/21gg_End.cfg:6
 msgid "In just one trip and with a few key decisions, Warlock Homz was able effect the long-term history of Wesnoth."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:13 ./Missing_Scepter/scenarios/21bg_End.cfg:14 ./Missing_Scepter/scenarios/21gb_End.cfg:12 ./Missing_Scepter/scenarios/21gg_End.cfg:12
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:13 ./Missing_Scepter/scenarios/21bg_End.cfg:12 ./Missing_Scepter/scenarios/21gb_End.cfg:12 ./Missing_Scepter/scenarios/21gg_End.cfg:12
 msgid "The destruction of the four crystals ensured the balance of power between the races of the continent by preventing the construction of a wand of malevolent destructiveness."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:19 ./Missing_Scepter/scenarios/21bg_End.cfg:20 ./Missing_Scepter/scenarios/21gb_End.cfg:18 ./Missing_Scepter/scenarios/21gg_End.cfg:18
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:19 ./Missing_Scepter/scenarios/21bg_End.cfg:18 ./Missing_Scepter/scenarios/21gb_End.cfg:18 ./Missing_Scepter/scenarios/21gg_End.cfg:18
 msgid "The destruction of the individual crystals stopped the unnatural influence they held on their possessors."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:25 ./Missing_Scepter/scenarios/21bg_End.cfg:26 ./Missing_Scepter/scenarios/21gb_End.cfg:24 ./Missing_Scepter/scenarios/21gg_End.cfg:24
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:25 ./Missing_Scepter/scenarios/21bg_End.cfg:24 ./Missing_Scepter/scenarios/21gb_End.cfg:24 ./Missing_Scepter/scenarios/21gg_End.cfg:24
 msgid "I still have nightmares where I see well-organized green-glowing-eyed Orcs with their superior weapons and standards of hygiene coming at me."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:31 ./Missing_Scepter/scenarios/21bg_End.cfg:32 ./Missing_Scepter/scenarios/21gb_End.cfg:30 ./Missing_Scepter/scenarios/21gg_End.cfg:30
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:31 ./Missing_Scepter/scenarios/21bg_End.cfg:30 ./Missing_Scepter/scenarios/21gb_End.cfg:30 ./Missing_Scepter/scenarios/21gg_End.cfg:30
 msgid ""
 "Fortunately, it was a small tribe of Orcs that won't be missed by their neighbors.\n"
 "        \n"
@@ -3557,12 +3557,12 @@ msgid "By showing bad environmental sense, Mycrokroft also began a train of thou
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:59 ./Missing_Scepter/scenarios/21bg_End.cfg:60 ./Missing_Scepter/scenarios/21gb_End.cfg:58 ./Missing_Scepter/scenarios/21gg_End.cfg:58
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:59 ./Missing_Scepter/scenarios/21bg_End.cfg:58 ./Missing_Scepter/scenarios/21gb_End.cfg:58 ./Missing_Scepter/scenarios/21gg_End.cfg:58
 msgid "While Warlock Homz is good at writing investigation procedures and solving mysteries that revolve around butter and parsley, he is not the two-fisted fighter of crime that Squeeky has become."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:65 ./Missing_Scepter/scenarios/21bg_End.cfg:66 ./Missing_Scepter/scenarios/21gb_End.cfg:64 ./Missing_Scepter/scenarios/21gg_End.cfg:64
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:65 ./Missing_Scepter/scenarios/21bg_End.cfg:64 ./Missing_Scepter/scenarios/21gb_End.cfg:64 ./Missing_Scepter/scenarios/21gg_End.cfg:64
 msgid "When Squeeky returned to Weldyn, it ushered in a new era of fighting organized costumed crime. Occasionally you will see in the night sky the Mayor of Wesnoth's special signal calling in Squeeky for an emergency."
 msgstr ""
 
@@ -3570,105 +3570,97 @@ msgstr ""
 #. [scenario]: id=21bg_End
 #. [scenario]: id=21gb_End
 #. [scenario]: id=21gg_End
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:72 ./Missing_Scepter/scenarios/21bg_End.cfg:74 ./Missing_Scepter/scenarios/21gb_End.cfg:71 ./Missing_Scepter/scenarios/21gg_End.cfg:71
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:72 ./Missing_Scepter/scenarios/21bg_End.cfg:72 ./Missing_Scepter/scenarios/21gb_End.cfg:71 ./Missing_Scepter/scenarios/21gg_End.cfg:71
 msgid "Fallout Ending Sequence"
 msgstr ""
 
 #. [side]: type=Great Mage, id=Mycrokroft
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:101 ./Missing_Scepter/scenarios/21bg_End.cfg:104 ./Missing_Scepter/scenarios/21gb_End.cfg:99 ./Missing_Scepter/scenarios/21gg_End.cfg:99
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:101 ./Missing_Scepter/scenarios/21bg_End.cfg:102 ./Missing_Scepter/scenarios/21gb_End.cfg:99 ./Missing_Scepter/scenarios/21gg_End.cfg:99
 msgid "Queens"
 msgstr ""
 
 #. [message]: speaker=Meemosha
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:149 ./Missing_Scepter/scenarios/21bg_End.cfg:152 ./Missing_Scepter/scenarios/21gb_End.cfg:146 ./Missing_Scepter/scenarios/21gg_End.cfg:146
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:149 ./Missing_Scepter/scenarios/21bg_End.cfg:150 ./Missing_Scepter/scenarios/21gb_End.cfg:146 ./Missing_Scepter/scenarios/21gg_End.cfg:146
 msgid "What exactly do you do in this water closet?"
 msgstr ""
 
 #. [message]: speaker=Eucalypse
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:153 ./Missing_Scepter/scenarios/21bg_End.cfg:156 ./Missing_Scepter/scenarios/21gb_End.cfg:150 ./Missing_Scepter/scenarios/21gg_End.cfg:150
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:153 ./Missing_Scepter/scenarios/21bg_End.cfg:154 ./Missing_Scepter/scenarios/21gb_End.cfg:150 ./Missing_Scepter/scenarios/21gg_End.cfg:150
 msgid "I live! Who said travelling with that deerstaker wearing butter tester was certain death?"
 msgstr ""
 
 #. [message]: speaker=Tabbithè
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:157 ./Missing_Scepter/scenarios/21bg_End.cfg:160 ./Missing_Scepter/scenarios/21gb_End.cfg:154 ./Missing_Scepter/scenarios/21gg_End.cfg:154
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:157 ./Missing_Scepter/scenarios/21bg_End.cfg:158 ./Missing_Scepter/scenarios/21gb_End.cfg:154 ./Missing_Scepter/scenarios/21gg_End.cfg:154
 msgid "It is almost as if someone had been watching out for me."
 msgstr ""
 
 #. [message]: speaker=Eucalghost
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:161 ./Missing_Scepter/scenarios/21bg_End.cfg:164 ./Missing_Scepter/scenarios/21gb_End.cfg:158 ./Missing_Scepter/scenarios/21gg_End.cfg:158
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:161 ./Missing_Scepter/scenarios/21bg_End.cfg:162 ./Missing_Scepter/scenarios/21gb_End.cfg:158 ./Missing_Scepter/scenarios/21gg_End.cfg:158
 msgid "Ah food and drink. Just let me wrap my ghostly hands around...no, that's not working. Hmmm."
 msgstr ""
 
 #. [message]: speaker=Tabbighost
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:165 ./Missing_Scepter/scenarios/21bg_End.cfg:168 ./Missing_Scepter/scenarios/21gb_End.cfg:162 ./Missing_Scepter/scenarios/21gg_End.cfg:162
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:165 ./Missing_Scepter/scenarios/21bg_End.cfg:166 ./Missing_Scepter/scenarios/21gb_End.cfg:162 ./Missing_Scepter/scenarios/21gg_End.cfg:162
 msgid "It is almost as if someone had been watching out for me, then stopped watching out for me, then started watching out for me again."
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:177 ./Missing_Scepter/scenarios/21bg_End.cfg:179 ./Missing_Scepter/scenarios/21gb_End.cfg:172 ./Missing_Scepter/scenarios/21gg_End.cfg:173
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:177 ./Missing_Scepter/scenarios/21bg_End.cfg:177 ./Missing_Scepter/scenarios/21gb_End.cfg:172 ./Missing_Scepter/scenarios/21gg_End.cfg:173
 msgid "Well, I hope that I never have to leave Weldyn again, but at least I have this Wand of Ice Making to show for my troubles. Does anyone need their drink rechilled?"
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:189 ./Missing_Scepter/scenarios/21bg_End.cfg:191 ./Missing_Scepter/scenarios/21gb_End.cfg:184 ./Missing_Scepter/scenarios/21gg_End.cfg:185
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:189 ./Missing_Scepter/scenarios/21bg_End.cfg:189 ./Missing_Scepter/scenarios/21gb_End.cfg:184 ./Missing_Scepter/scenarios/21gg_End.cfg:185
 msgid "It is a shame that I could not find a single wand in that troll-infested cavern. Oh well, I'll just get back to my gentlemen's club where I'll drink heavily and dream about what might have been."
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:203 ./Missing_Scepter/scenarios/21bg_End.cfg:205 ./Missing_Scepter/scenarios/21gb_End.cfg:198 ./Missing_Scepter/scenarios/21gg_End.cfg:199
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:203 ./Missing_Scepter/scenarios/21bg_End.cfg:203 ./Missing_Scepter/scenarios/21gb_End.cfg:198 ./Missing_Scepter/scenarios/21gg_End.cfg:199
 msgid "Well, I hope that I never have to leave Weldyn again, but at least I have this Staff of Fire to show for my troubles. Does anyone need their pipe lit?"
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:217 ./Missing_Scepter/scenarios/21bg_End.cfg:219 ./Missing_Scepter/scenarios/21gb_End.cfg:212 ./Missing_Scepter/scenarios/21gg_End.cfg:213
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:217 ./Missing_Scepter/scenarios/21bg_End.cfg:217 ./Missing_Scepter/scenarios/21gb_End.cfg:212 ./Missing_Scepter/scenarios/21gg_End.cfg:213
 msgid "Well, I hope that I never have to leave Weldyn again, but at least I have this Wand of Dirty Water to show for my troubles. Too bad I could not find something useful, like an Ice Wand or a Fire Staff."
 msgstr ""
 
 #. [message]: speaker=Gongadin
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:221 ./Missing_Scepter/scenarios/21bg_End.cfg:223 ./Missing_Scepter/scenarios/21gb_End.cfg:216 ./Missing_Scepter/scenarios/21gg_End.cfg:217
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:221 ./Missing_Scepter/scenarios/21bg_End.cfg:221 ./Missing_Scepter/scenarios/21gb_End.cfg:216 ./Missing_Scepter/scenarios/21gg_End.cfg:217
 msgid "It's sort of useful. If you spray it in the kitchen, it tends to kill off the cockroaches."
 msgstr ""
 
 #. [message]: speaker=Squeeky
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:235 ./Missing_Scepter/scenarios/21bg_End.cfg:237 ./Missing_Scepter/scenarios/21gb_End.cfg:230 ./Missing_Scepter/scenarios/21gg_End.cfg:231
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:235 ./Missing_Scepter/scenarios/21bg_End.cfg:235 ./Missing_Scepter/scenarios/21gb_End.cfg:230 ./Missing_Scepter/scenarios/21gg_End.cfg:231
 msgid "Is that the bat signal again? Good thing I have this Bat Wand. Otherwise, I would have to chew on such villains as Red Pepperman and Urchin Woman and their villainous child: Spiky Hot Sea Pepper Boy."
 msgstr ""
 
 #. [message]: speaker=Squeeky
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:242 ./Missing_Scepter/scenarios/21bg_End.cfg:244 ./Missing_Scepter/scenarios/21gb_End.cfg:237 ./Missing_Scepter/scenarios/21gg_End.cfg:238
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:242 ./Missing_Scepter/scenarios/21bg_End.cfg:242 ./Missing_Scepter/scenarios/21gb_End.cfg:237 ./Missing_Scepter/scenarios/21gg_End.cfg:238
 msgid "You are lucky. Too bad we could not find a Bat Wand. Now, I have to chew on such villains as Red Pepperman and the Urchin Woman, and their villainous child: Spiky Hot Sea Pepper Boy."
 msgstr ""
 
 #. [message]: speaker=Homz
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:249 ./Missing_Scepter/scenarios/21bg_End.cfg:251 ./Missing_Scepter/scenarios/21gb_End.cfg:244 ./Missing_Scepter/scenarios/21gg_End.cfg:245
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:249 ./Missing_Scepter/scenarios/21bg_End.cfg:249 ./Missing_Scepter/scenarios/21gb_End.cfg:244 ./Missing_Scepter/scenarios/21gg_End.cfg:245
 msgid "Ah, I can hear Missus Hoodsun coming with a visitor. The visitor will be a woman, wearing a red cape, and who owns two cats, both orange in color."
 msgstr ""
 
 #. [message]: speaker=Hoodsun
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:277 ./Missing_Scepter/scenarios/21bg_End.cfg:279 ./Missing_Scepter/scenarios/21gb_End.cfg:272 ./Missing_Scepter/scenarios/21gg_End.cfg:273
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:277 ./Missing_Scepter/scenarios/21bg_End.cfg:277 ./Missing_Scepter/scenarios/21gb_End.cfg:272 ./Missing_Scepter/scenarios/21gg_End.cfg:273
 msgid "You have a visitor, Mistah Homz"
 msgstr ""
 
 #. [message]: speaker=Flotsom
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:281 ./Missing_Scepter/scenarios/21bg_End.cfg:283 ./Missing_Scepter/scenarios/21gb_End.cfg:276 ./Missing_Scepter/scenarios/21gg_End.cfg:277
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:281 ./Missing_Scepter/scenarios/21bg_End.cfg:281 ./Missing_Scepter/scenarios/21gb_End.cfg:276 ./Missing_Scepter/scenarios/21gg_End.cfg:277
 msgid "How could you have possibly known?"
 msgstr ""
 
 #. [message]: speaker=Homz
-#: ./Missing_Scepter/scenarios/21bb_End.cfg:285 ./Missing_Scepter/scenarios/21bg_End.cfg:287 ./Missing_Scepter/scenarios/21gb_End.cfg:280 ./Missing_Scepter/scenarios/21gg_End.cfg:281
+#: ./Missing_Scepter/scenarios/21bb_End.cfg:285 ./Missing_Scepter/scenarios/21bg_End.cfg:285 ./Missing_Scepter/scenarios/21gb_End.cfg:280 ./Missing_Scepter/scenarios/21gg_End.cfg:281
 msgid "It was elementary, my dear Flotsom. You should get a fresh notebook. I have a feeling this will be a lengthy case to solve."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bg_End.cfg:6
-msgid ""
-"In just one trip and with a few key decisions, Warlock Homz was able effect the long-term history of Wesnoth.\n"
-"            \n"
-"bg"
-msgstr ""
-
-#. [part]
-#: ./Missing_Scepter/scenarios/21bg_End.cfg:40
+#: ./Missing_Scepter/scenarios/21bg_End.cfg:38
 msgid ""
 "In helping enslave the merfolk, a long-lasting resentment against Wesnoth, even after the rescue by Konrad, was maintained\n"
 "        \n"
@@ -3676,12 +3668,12 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bg_End.cfg:48 ./Missing_Scepter/scenarios/21gg_End.cfg:46
+#: ./Missing_Scepter/scenarios/21bg_End.cfg:46 ./Missing_Scepter/scenarios/21gg_End.cfg:46
 msgid "By choosing not to follow the advice of Clarence Pondsworthy Fiddleton to burn the Forest of Lintanir down, Mycrokroft saved a rare species of horned horse heretofore unknown to humans."
 msgstr ""
 
 #. [part]
-#: ./Missing_Scepter/scenarios/21bg_End.cfg:54 ./Missing_Scepter/scenarios/21gg_End.cfg:52
+#: ./Missing_Scepter/scenarios/21bg_End.cfg:52 ./Missing_Scepter/scenarios/21gg_End.cfg:52
 msgid "By showing good environmental sense, Mycrokroft also stalled the discussions between these distant Elves were having on the subject of eliminating all humans."
 msgstr ""
 

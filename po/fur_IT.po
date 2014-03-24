@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Missing_Scepter-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-03 21:36+0100\n"
+"POT-Creation-Date: 2014-03-24 03:14+0100\n"
 "PO-Revision-Date: 2014-03-03 21:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -132,7 +132,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/19_Rescue.cfg:36
 #: Missing_Scepter/scenarios/20_Orcs.cfg:44
 #: Missing_Scepter/scenarios/21bb_End.cfg:84
-#: Missing_Scepter/scenarios/21bg_End.cfg:87
+#: Missing_Scepter/scenarios/21bg_End.cfg:85
 #: Missing_Scepter/scenarios/21gb_End.cfg:83
 #: Missing_Scepter/scenarios/21gg_End.cfg:83
 msgid "Civilians"
@@ -4434,6 +4434,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:7
+#: Missing_Scepter/scenarios/21bg_End.cfg:6
 #: Missing_Scepter/scenarios/21gb_End.cfg:6
 #: Missing_Scepter/scenarios/21gg_End.cfg:6
 msgid ""
@@ -4443,7 +4444,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:13
-#: Missing_Scepter/scenarios/21bg_End.cfg:14
+#: Missing_Scepter/scenarios/21bg_End.cfg:12
 #: Missing_Scepter/scenarios/21gb_End.cfg:12
 #: Missing_Scepter/scenarios/21gg_End.cfg:12
 msgid ""
@@ -4454,7 +4455,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:19
-#: Missing_Scepter/scenarios/21bg_End.cfg:20
+#: Missing_Scepter/scenarios/21bg_End.cfg:18
 #: Missing_Scepter/scenarios/21gb_End.cfg:18
 #: Missing_Scepter/scenarios/21gg_End.cfg:18
 msgid ""
@@ -4464,7 +4465,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:25
-#: Missing_Scepter/scenarios/21bg_End.cfg:26
+#: Missing_Scepter/scenarios/21bg_End.cfg:24
 #: Missing_Scepter/scenarios/21gb_End.cfg:24
 #: Missing_Scepter/scenarios/21gg_End.cfg:24
 msgid ""
@@ -4474,7 +4475,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:31
-#: Missing_Scepter/scenarios/21bg_End.cfg:32
+#: Missing_Scepter/scenarios/21bg_End.cfg:30
 #: Missing_Scepter/scenarios/21gb_End.cfg:30
 #: Missing_Scepter/scenarios/21gg_End.cfg:30
 msgid ""
@@ -4517,7 +4518,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:59
-#: Missing_Scepter/scenarios/21bg_End.cfg:60
+#: Missing_Scepter/scenarios/21bg_End.cfg:58
 #: Missing_Scepter/scenarios/21gb_End.cfg:58
 #: Missing_Scepter/scenarios/21gg_End.cfg:58
 msgid ""
@@ -4528,7 +4529,7 @@ msgstr ""
 
 #. [part]
 #: Missing_Scepter/scenarios/21bb_End.cfg:65
-#: Missing_Scepter/scenarios/21bg_End.cfg:66
+#: Missing_Scepter/scenarios/21bg_End.cfg:64
 #: Missing_Scepter/scenarios/21gb_End.cfg:64
 #: Missing_Scepter/scenarios/21gg_End.cfg:64
 msgid ""
@@ -4542,7 +4543,7 @@ msgstr ""
 #. [scenario]: id=21gb_End
 #. [scenario]: id=21gg_End
 #: Missing_Scepter/scenarios/21bb_End.cfg:72
-#: Missing_Scepter/scenarios/21bg_End.cfg:74
+#: Missing_Scepter/scenarios/21bg_End.cfg:72
 #: Missing_Scepter/scenarios/21gb_End.cfg:71
 #: Missing_Scepter/scenarios/21gg_End.cfg:71
 msgid "Fallout Ending Sequence"
@@ -4550,7 +4551,7 @@ msgstr ""
 
 #. [side]: type=Great Mage, id=Mycrokroft
 #: Missing_Scepter/scenarios/21bb_End.cfg:101
-#: Missing_Scepter/scenarios/21bg_End.cfg:104
+#: Missing_Scepter/scenarios/21bg_End.cfg:102
 #: Missing_Scepter/scenarios/21gb_End.cfg:99
 #: Missing_Scepter/scenarios/21gg_End.cfg:99
 msgid "Queens"
@@ -4558,7 +4559,7 @@ msgstr ""
 
 #. [message]: speaker=Meemosha
 #: Missing_Scepter/scenarios/21bb_End.cfg:149
-#: Missing_Scepter/scenarios/21bg_End.cfg:152
+#: Missing_Scepter/scenarios/21bg_End.cfg:150
 #: Missing_Scepter/scenarios/21gb_End.cfg:146
 #: Missing_Scepter/scenarios/21gg_End.cfg:146
 msgid "What exactly do you do in this water closet?"
@@ -4566,7 +4567,7 @@ msgstr ""
 
 #. [message]: speaker=Eucalypse
 #: Missing_Scepter/scenarios/21bb_End.cfg:153
-#: Missing_Scepter/scenarios/21bg_End.cfg:156
+#: Missing_Scepter/scenarios/21bg_End.cfg:154
 #: Missing_Scepter/scenarios/21gb_End.cfg:150
 #: Missing_Scepter/scenarios/21gg_End.cfg:150
 msgid ""
@@ -4576,7 +4577,7 @@ msgstr ""
 
 #. [message]: speaker=Tabbithè
 #: Missing_Scepter/scenarios/21bb_End.cfg:157
-#: Missing_Scepter/scenarios/21bg_End.cfg:160
+#: Missing_Scepter/scenarios/21bg_End.cfg:158
 #: Missing_Scepter/scenarios/21gb_End.cfg:154
 #: Missing_Scepter/scenarios/21gg_End.cfg:154
 msgid "It is almost as if someone had been watching out for me."
@@ -4584,7 +4585,7 @@ msgstr ""
 
 #. [message]: speaker=Eucalghost
 #: Missing_Scepter/scenarios/21bb_End.cfg:161
-#: Missing_Scepter/scenarios/21bg_End.cfg:164
+#: Missing_Scepter/scenarios/21bg_End.cfg:162
 #: Missing_Scepter/scenarios/21gb_End.cfg:158
 #: Missing_Scepter/scenarios/21gg_End.cfg:158
 msgid ""
@@ -4594,7 +4595,7 @@ msgstr ""
 
 #. [message]: speaker=Tabbighost
 #: Missing_Scepter/scenarios/21bb_End.cfg:165
-#: Missing_Scepter/scenarios/21bg_End.cfg:168
+#: Missing_Scepter/scenarios/21bg_End.cfg:166
 #: Missing_Scepter/scenarios/21gb_End.cfg:162
 #: Missing_Scepter/scenarios/21gg_End.cfg:162
 msgid ""
@@ -4604,7 +4605,7 @@ msgstr ""
 
 #. [message]: speaker=Mycrokroft
 #: Missing_Scepter/scenarios/21bb_End.cfg:177
-#: Missing_Scepter/scenarios/21bg_End.cfg:179
+#: Missing_Scepter/scenarios/21bg_End.cfg:177
 #: Missing_Scepter/scenarios/21gb_End.cfg:172
 #: Missing_Scepter/scenarios/21gg_End.cfg:173
 msgid ""
@@ -4615,7 +4616,7 @@ msgstr ""
 
 #. [message]: speaker=Mycrokroft
 #: Missing_Scepter/scenarios/21bb_End.cfg:189
-#: Missing_Scepter/scenarios/21bg_End.cfg:191
+#: Missing_Scepter/scenarios/21bg_End.cfg:189
 #: Missing_Scepter/scenarios/21gb_End.cfg:184
 #: Missing_Scepter/scenarios/21gg_End.cfg:185
 msgid ""
@@ -4626,7 +4627,7 @@ msgstr ""
 
 #. [message]: speaker=Mycrokroft
 #: Missing_Scepter/scenarios/21bb_End.cfg:203
-#: Missing_Scepter/scenarios/21bg_End.cfg:205
+#: Missing_Scepter/scenarios/21bg_End.cfg:203
 #: Missing_Scepter/scenarios/21gb_End.cfg:198
 #: Missing_Scepter/scenarios/21gg_End.cfg:199
 msgid ""
@@ -4636,7 +4637,7 @@ msgstr ""
 
 #. [message]: speaker=Mycrokroft
 #: Missing_Scepter/scenarios/21bb_End.cfg:217
-#: Missing_Scepter/scenarios/21bg_End.cfg:219
+#: Missing_Scepter/scenarios/21bg_End.cfg:217
 #: Missing_Scepter/scenarios/21gb_End.cfg:212
 #: Missing_Scepter/scenarios/21gg_End.cfg:213
 msgid ""
@@ -4647,7 +4648,7 @@ msgstr ""
 
 #. [message]: speaker=Gongadin
 #: Missing_Scepter/scenarios/21bb_End.cfg:221
-#: Missing_Scepter/scenarios/21bg_End.cfg:223
+#: Missing_Scepter/scenarios/21bg_End.cfg:221
 #: Missing_Scepter/scenarios/21gb_End.cfg:216
 #: Missing_Scepter/scenarios/21gg_End.cfg:217
 msgid ""
@@ -4657,7 +4658,7 @@ msgstr ""
 
 #. [message]: speaker=Squeeky
 #: Missing_Scepter/scenarios/21bb_End.cfg:235
-#: Missing_Scepter/scenarios/21bg_End.cfg:237
+#: Missing_Scepter/scenarios/21bg_End.cfg:235
 #: Missing_Scepter/scenarios/21gb_End.cfg:230
 #: Missing_Scepter/scenarios/21gg_End.cfg:231
 msgid ""
@@ -4668,7 +4669,7 @@ msgstr ""
 
 #. [message]: speaker=Squeeky
 #: Missing_Scepter/scenarios/21bb_End.cfg:242
-#: Missing_Scepter/scenarios/21bg_End.cfg:244
+#: Missing_Scepter/scenarios/21bg_End.cfg:242
 #: Missing_Scepter/scenarios/21gb_End.cfg:237
 #: Missing_Scepter/scenarios/21gg_End.cfg:238
 msgid ""
@@ -4679,7 +4680,7 @@ msgstr ""
 
 #. [message]: speaker=Homz
 #: Missing_Scepter/scenarios/21bb_End.cfg:249
-#: Missing_Scepter/scenarios/21bg_End.cfg:251
+#: Missing_Scepter/scenarios/21bg_End.cfg:249
 #: Missing_Scepter/scenarios/21gb_End.cfg:244
 #: Missing_Scepter/scenarios/21gg_End.cfg:245
 msgid ""
@@ -4689,7 +4690,7 @@ msgstr ""
 
 #. [message]: speaker=Hoodsun
 #: Missing_Scepter/scenarios/21bb_End.cfg:277
-#: Missing_Scepter/scenarios/21bg_End.cfg:279
+#: Missing_Scepter/scenarios/21bg_End.cfg:277
 #: Missing_Scepter/scenarios/21gb_End.cfg:272
 #: Missing_Scepter/scenarios/21gg_End.cfg:273
 msgid "You have a visitor, Mistah Homz"
@@ -4697,7 +4698,7 @@ msgstr ""
 
 #. [message]: speaker=Flotsom
 #: Missing_Scepter/scenarios/21bb_End.cfg:281
-#: Missing_Scepter/scenarios/21bg_End.cfg:283
+#: Missing_Scepter/scenarios/21bg_End.cfg:281
 #: Missing_Scepter/scenarios/21gb_End.cfg:276
 #: Missing_Scepter/scenarios/21gg_End.cfg:277
 msgid "How could you have possibly known?"
@@ -4705,7 +4706,7 @@ msgstr ""
 
 #. [message]: speaker=Homz
 #: Missing_Scepter/scenarios/21bb_End.cfg:285
-#: Missing_Scepter/scenarios/21bg_End.cfg:287
+#: Missing_Scepter/scenarios/21bg_End.cfg:285
 #: Missing_Scepter/scenarios/21gb_End.cfg:280
 #: Missing_Scepter/scenarios/21gg_End.cfg:281
 msgid ""
@@ -4714,16 +4715,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Missing_Scepter/scenarios/21bg_End.cfg:6
-msgid ""
-"In just one trip and with a few key decisions, Warlock Homz was able effect "
-"the long-term history of Wesnoth.\n"
-"            \n"
-"bg"
-msgstr ""
-
-#. [part]
-#: Missing_Scepter/scenarios/21bg_End.cfg:40
+#: Missing_Scepter/scenarios/21bg_End.cfg:38
 msgid ""
 "In helping enslave the merfolk, a long-lasting resentment against Wesnoth, "
 "even after the rescue by Konrad, was maintained\n"
@@ -4734,7 +4726,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Missing_Scepter/scenarios/21bg_End.cfg:48
+#: Missing_Scepter/scenarios/21bg_End.cfg:46
 #: Missing_Scepter/scenarios/21gg_End.cfg:46
 msgid ""
 "By choosing not to follow the advice of Clarence Pondsworthy Fiddleton to "
@@ -4743,7 +4735,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Missing_Scepter/scenarios/21bg_End.cfg:54
+#: Missing_Scepter/scenarios/21bg_End.cfg:52
 #: Missing_Scepter/scenarios/21gg_End.cfg:52
 msgid ""
 "By showing good environmental sense, Mycrokroft also stalled the discussions "
