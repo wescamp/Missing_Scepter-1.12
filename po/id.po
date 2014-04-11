@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Missing_Scepter-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-24 03:14+0100\n"
+"POT-Creation-Date: 2014-04-11 15:05+0200\n"
 "PO-Revision-Date: 2014-03-03 21:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -221,7 +221,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:225
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:217
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:244
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:215
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:211
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:218
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:170
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:445
@@ -250,7 +250,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:237
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:229
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:256
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:227
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:223
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:230
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:182
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:457
@@ -281,7 +281,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/09_Carcyn.cfg:118
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:233
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:260
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:231
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:227
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:234
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:186
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:461
@@ -400,7 +400,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:229
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:221
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:248
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:219
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:215
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:222
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:174
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:449
@@ -757,7 +757,6 @@ msgstr ""
 #. [side]: type=Assassin, id=Babs
 #. [side]: type=Assassin, id=Greenkniif, id=Greenkniif
 #. [side]: type=Assassin, id=Stabab
-#. [side]: type=Assassin, id=Stabab, id=Stabab
 #. [side]: type=Necromancer, id=Babs
 #: Missing_Scepter/scenarios/04a_Hiring.cfg:61
 #: Missing_Scepter/scenarios/04b_Training.cfg:60
@@ -791,7 +790,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:233
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:225
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:252
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:223
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:219
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:226
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:178
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:453
@@ -1058,7 +1057,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/07_Elensefar.cfg:241
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:290
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:317
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:288
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:284
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:287
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:577
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:601
@@ -1475,7 +1474,7 @@ msgstr ""
 #: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:343
 #: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:753
 #: Missing_Scepter/scenarios/12_Rest_Stop.cfg:450
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:418
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:416
 #: Missing_Scepter/scenarios/14_Red_Crystal.cfg:517
 #: Missing_Scepter/scenarios/20_Orcs.cfg:340
 msgid ""
@@ -1764,7 +1763,7 @@ msgstr ""
 msgid ""
 "Captain Jera, 500 Gold\n"
 "                \n"
-"Recruit bowmen and spearment, but will not ship spiders."
+"Recruit bowmen and spearmen, but will not ship spiders."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1837,16 +1836,15 @@ msgstr ""
 #. [unit]: type=Bandit, id=Martjom
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:130
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:129
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:132
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:130
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:131
 msgid "Martjom"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Blodgot
-#. [side]: type=Orcish Warlord, id=Blodgot, id=Blodgot
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:144
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:143
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:146
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:144
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:145
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:49
 msgid "Ocrses"
@@ -1859,7 +1857,7 @@ msgstr ""
 #. [side]: type=Great Troll, id=Quartztooth, id=Quartztooth
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:169
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:168
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:173
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:169
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:170
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:115
 #: Missing_Scepter/scenarios/11b_Frozen.cfg:155
@@ -1871,7 +1869,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:213
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:240
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:211
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:207
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:214
 msgid "Move Homz to one of the two exits in the North"
 msgstr ""
@@ -1879,7 +1877,7 @@ msgstr ""
 #. [message]: speaker=Qrzpr
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:258
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:285
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:256
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:252
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:255
 msgid "Alarm! It is an army of sticky-fingered land-grabbing Wesnothians."
 msgstr ""
@@ -1887,7 +1885,7 @@ msgstr ""
 #. [message]: speaker=Flotsom
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:262
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:289
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:260
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:256
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:259
 msgid ""
 "We are not here to steal. We just need to get to the Fortress of the "
@@ -1897,7 +1895,7 @@ msgstr ""
 #. [message]: speaker=Martjom
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:266
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:293
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:264
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:260
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:263
 msgid ""
 "The answer to that is each time. And there is nothing to steal, but that "
@@ -1908,7 +1906,7 @@ msgstr ""
 #. [message]: speaker=Thb
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:270
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:297
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:268
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:264
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:267
 msgid ""
 "The Elves did not take our vowels. But I know an invasion when I see one.\n"
@@ -1919,7 +1917,7 @@ msgstr ""
 #. [unit]: type=Orcish Slurbow, id=Deadeye
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:309
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:336
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:307
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:303
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:306
 msgid "Deadeye"
 msgstr ""
@@ -1927,7 +1925,7 @@ msgstr ""
 #. [unit]: type=Orcish Slurbow, id=Mopntu
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:321
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:348
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:319
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:315
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:318
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:65
 msgid "Mopntu"
@@ -1936,7 +1934,7 @@ msgstr ""
 #. [message]: speaker=Deadeye
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:337
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:364
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:335
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:331
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:334
 msgid "No hoomans allowed."
 msgstr ""
@@ -1944,7 +1942,7 @@ msgstr ""
 #. [unit]: type=Orcish Slurbow, id=Deadeye
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:365
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:392
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:363
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:359
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:362
 msgid "Bargh"
 msgstr ""
@@ -1952,7 +1950,7 @@ msgstr ""
 #. [message]: speaker=Squeeky
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:386
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:413
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:384
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:380
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:383
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:240
 #: Missing_Scepter/scenarios/17_Meet_Up.cfg:597
@@ -1966,7 +1964,7 @@ msgstr ""
 #. [message]: speaker=Flotsom
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:390
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:417
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:388
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:384
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:387
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:244
 #: Missing_Scepter/scenarios/17_Meet_Up.cfg:602
@@ -1978,7 +1976,7 @@ msgstr ""
 #. [message]: speaker=Flotsom
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:403
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:441
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:401
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:397
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:412
 msgid "I say, Homz, is there any chance of you finding a way out of here?"
 msgstr ""
@@ -1986,7 +1984,7 @@ msgstr ""
 #. [message]: speaker=Homz
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:407
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:445
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:405
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:401
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:416
 msgid ""
 "There are two ways out. One through the Dwarven caves and the other over the "
@@ -1997,7 +1995,7 @@ msgstr ""
 #. [message]: speaker=Gongadin
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:414
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:427
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:412
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:408
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:213
 #: Missing_Scepter/scenarios/17_Meet_Up.cfg:612
 #: Missing_Scepter/scenarios/18_Troll_Road.cfg:507
@@ -2012,7 +2010,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:432
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:459
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:434
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:430
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:430
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:259
 msgid "World of the Dwarves"
@@ -2021,7 +2019,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:449
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:476
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:451
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:447
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:447
 #: Missing_Scepter/scenarios/10e_River_Listra.cfg:272
 msgid "Frozen Pass"
@@ -2030,7 +2028,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Missing_Scepter/scenarios/10a_River_Listra.cfg:466
 #: Missing_Scepter/scenarios/10b_River_Listra.cfg:493
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:468
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:464
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:464
 msgid "Sand Garden of the Dead"
 msgstr ""
@@ -2051,14 +2049,14 @@ msgid "Listra with Capn Jear"
 msgstr ""
 
 #. [message]: speaker=Gongadin
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:416
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:412
 msgid ""
 "Don't feel sorry. They would thank us if they could. There was no better "
 "fate for them than to have been chopped down by Wesnoth's finest."
 msgstr ""
 
 #. [message]: speaker=Homz
-#: Missing_Scepter/scenarios/10c_River_Listra.cfg:420
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:416
 #: Missing_Scepter/scenarios/10d_River_Listra.cfg:402
 msgid ""
 "Yes, I wish there had been another way other than slaying every living thing "
@@ -2796,7 +2794,7 @@ msgstr ""
 
 #. [message]: speaker=Flotsom
 #: Missing_Scepter/scenarios/12_Rest_Stop.cfg:455
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:423
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:421
 msgid "What's he saying? 'Squeek squeek squeeeeeek'?"
 msgstr ""
 
@@ -2824,7 +2822,7 @@ msgstr ""
 
 #. [message]: speaker=Mycrokroft
 #: Missing_Scepter/scenarios/12_Rest_Stop.cfg:502
-msgid "Morka. So, now we have a name to who is behind this."
+msgid "Morka. So, now we have a name of whom is behind this."
 msgstr ""
 
 #. [message]: speaker=Flotsom
@@ -2840,7 +2838,7 @@ msgid ""
 "Yes Flotsom, your sardonic estimate of my importance is correct. But the "
 "report of all these dead wandering toward the Scepter Fortess has lead me to "
 "believe there may not be an empire to pull strings for if steps are not "
-"immediately taken. Quickly, let us go the Scepter Fortress and I will "
+"immediately taken. Quickly, let us go to the Scepter Fortress and I will "
 "explain on the way."
 msgstr ""
 
@@ -2989,7 +2987,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Homz
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:285
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:286
 msgid ""
 "Do you recall that recent picture of the Queen, Flotsom? There seems to be a "
 "corpse lying where it would have been seen in the picture. Not to mention, "
@@ -2997,22 +2995,22 @@ msgid ""
 msgstr ""
 
 #. [unit]: id=Ikpkkakkalx, type=Revenant
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:363
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:361
 msgid "Ikpkkakkalx"
 msgstr ""
 
 #. [message]: speaker=Ikpkkakkalx
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:371
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:369
 msgid "K'sk ch't q,x!"
 msgstr ""
 
 #. [message]: speaker=Flotsom
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:375
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:373
 msgid "Brilliant Homz! Another mystery solved."
 msgstr ""
 
 #. [message]: speaker=Homz
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:439
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:437
 msgid ""
 "The rubbish tip, always a good place to search for the little things that "
 "can crack a case. Why look, our troops did clean up after themselves. "
@@ -3021,7 +3019,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:443
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:441
 msgid ""
 "Rubbish from Elves, Orcs, Dwarves, and Saurians all mixed together. They did "
 "not come here one at a time, they were here together. Facinating. I did not "
@@ -3030,12 +3028,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gongadin
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:448
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:446
 msgid "As though they had a common enemy."
 msgstr ""
 
 #. [message]: speaker=Homz
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:452
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:450
 msgid ""
 "Yes, but not the common enemy they thought they had. This Lich Morka is the "
 "certain and present danger to them, while Wesnoth is merely the present "
@@ -3043,29 +3041,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mycrokroft
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:456
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:454
 msgid ""
-"They probably divided the crystal to match their race's weakness. Elves-"
-"Sanguine would want the Black Crystal; orcs-chorelic, Green Crystal; dwarves-"
-"melancholic, Red Crystal; saurians-phlegmatic, Yellow Crystal. I propose we "
-"split up now and each destroy the crystal that matches our desposition. I "
-"will go after the Black Crystal."
+"They probably divided the crystal to match their race's weakness. \n"
+"\t\t\t\n"
+"Elves-sanguine would want the Black Crystal; Orcs-chorelic, Green Crystal; "
+"Dwarves-melancholic, Red Crystal; Saurians-phlegmatic, Yellow Crystal. \n"
+"\n"
+"I propose we split up now and each destroy the crystal that matches our "
+"desposition. I will go after the Black Crystal."
 msgstr ""
 
 #. [message]: speaker=Gongadin
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:461
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:463
 msgid "Yellow Crystal"
 msgstr ""
 
 #. [message]: speaker=Flotsom
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:465
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:467
 msgid "Red Crystal"
 msgstr ""
 
 #. [message]: speaker=Homz
 #. [scenario]: id=20_Orcs
 #. [unit]: type=Greencrystal, id=Greencrystal
-#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:469
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:471
 #: Missing_Scepter/scenarios/20_Orcs.cfg:22
 #: Missing_Scepter/scenarios/20_Orcs.cfg:183
 msgid "Green Crystal"
